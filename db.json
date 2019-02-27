@@ -1,0 +1,26 @@
+{
+"products":[
+
+{"id":1,"name":"Skunk, western spotted","category":"Red"},
+{"id":2,"name":"Beaver, european","category":"Goldenrod"},
+{"id":3,"name":"Hartebeest, red","category":"Puce"},
+{"id":4,"name":"Verreaux's sifaka","category":"Yellow"},
+{"id":5,"name":"Possum, pygmy","category":"Violet"},
+{"id":6,"name":"Macaque, pig-tailed","category":"Blue"},
+{"id":7,"name":"Common eland","category":"Blue"},
+{"id":8,"name":"Bonnet macaque","category":"Purple"},
+{"id":9,"name":"Flicker, campo","category":"Puce"},
+{"id":10,"name":"Heron, yellow-crowned night","category":"Fuscia"},
+{"id":11,"name":"Lion, california sea","category":"Purple"},
+{"id":12,"name":"Turkey, australian brush","category":"Fuscia"},
+{"id":13,"name":"Beaver, american","category":"Yellow"},
+{"id":14,"name":"Desert tortoise","category":"Indigo"},
+{"id":15,"name":"Black-crowned crane","category":"Indigo"},
+{"id":16,"name":"Brown hyena","category":"Yellow"},
+{"id":17,"name":"Phascogale, brush-tailed","category":"Blue"},
+{"id":18,"name":"Pademelon, red-legged","category":"Puce"},
+{"id":19,"name":"Woodchuck","category":"Blue"},
+{"id":20,"name":"Sally lightfoot crab","category":"Purple"}
+
+]
+}
